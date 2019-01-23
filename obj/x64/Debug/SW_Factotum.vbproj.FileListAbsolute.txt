@@ -1,0 +1,34 @@
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\SW_Factotum.exe.config
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\SW_Factotum.exe
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\SW_Factotum.pdb
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\SW_Factotum.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\wpfPreviewFlowControl.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\SolidWorks.Interop.swdocumentmgr.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\stdole.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\Interop.SldWorks.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\Interop.SwCommands.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\Interop.SwConst.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\Interop.SWPublished.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.vbproj.ResolveComReference.cache
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.Form1.resources
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.Resources.resources
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.vbproj.GenerateResource.cache
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.vbproj.CoreCompileInputs.cache
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.vbproj.CopyComplete
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.exe
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.pdb
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\SW_Factotum.exe.config
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\SW_Factotum.exe
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\SW_Factotum.pdb
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\SW_Factotum.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\wpfPreviewFlowControl.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\SolidWorks.Interop.swdocumentmgr.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\stdole.dll
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\bin\x64\Debug\Windows API Code Pack\Binaries\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\NicolaZanarini\source\repos\SW_Factotum\SW_Factotum\obj\x64\Debug\SW_Factotum.vbprojAssemblyReference.cache
